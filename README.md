@@ -72,6 +72,6 @@ The combined pipeline significantly improves object detection accuracy under adv
 - Extend functionality to support **live video stream input** and **batch processing**
 
 
-## Acknowledgments   
+## Course   
 - **Purdue University** – ECE 57000: Artificial Intelligence course 
 
