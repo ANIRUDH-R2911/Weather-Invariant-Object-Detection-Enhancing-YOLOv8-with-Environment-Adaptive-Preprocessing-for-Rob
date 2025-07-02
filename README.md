@@ -73,7 +73,5 @@ The combined pipeline significantly improves object detection accuracy under adv
 
 
 ## Acknowledgments   
-- **Ultralytics YOLOv8** - framework for object detection
-- **OpenCV** - for real-time image enhancement
 - **Purdue University** – ECE 57000: Artificial Intelligence course 
 
