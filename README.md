@@ -30,7 +30,7 @@ This project introduces a weather-adaptive pipeline that integrates a CNN-based 
 
 ```mermaid
 graph TD
-  A -> B
+  A --> B
 ```
 
 ## Architecture
