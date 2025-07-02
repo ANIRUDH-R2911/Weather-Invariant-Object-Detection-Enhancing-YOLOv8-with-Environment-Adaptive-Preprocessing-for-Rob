@@ -28,16 +28,12 @@ This project introduces a weather-adaptive pipeline that integrates a CNN-based 
 - **Two-Stage Modular Pipeline**  
   Seamless flow from classification to preprocessing to detection, designed for real-world conditions.
 
-```mermaid
-graph TD
-  A --> B
-```
 
 ## Architecture
 
 ```mermaid
 graph TD
-A[Input Image] --> B[Weather Classification (CNN)]
+A[Input Image] --> B[Weather Classification CNN]
 B --> C[Condition-Specific Preprocessing]
 C --> D[YOLOv8 Object Detection]
 D --> E[Detected Objects + Labels]
